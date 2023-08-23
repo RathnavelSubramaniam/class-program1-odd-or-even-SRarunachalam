@@ -4,21 +4,21 @@
       "name": "Test1",
       "setup": "",
       "run": "javac oddoreven.java && java oddoreven",
-      "input": "3",
+      "input": "",
       "output": "The given number is ODD",
       "comparison": "exact",
       "timeout": 10,
-      "points": 10
+      "points": 5
     },
     {
       "name": "Test 2",
       "setup": "",
       "run": "javac oddoreven.java && java oddoreven",
-      "input": "10",
+      "input": "",
       "output": "The given number is EVEN",
       "comparison": "exact",
       "timeout": 10,
-      "points": 10
+      "points": 5
     }
   ]
 }
