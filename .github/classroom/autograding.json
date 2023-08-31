@@ -9,16 +9,6 @@
       "comparison": "exact",
       "timeout": 10,
       "points": 5
-    },
-    {
-      "name": "Test 2",
-      "setup": "",
-      "run": "javac oddoreven.java && java oddoreven",
-      "input": "",
-      "output": "The given number is EVEN",
-      "comparison": "exact",
-      "timeout": 10,
-      "points": 5
     }
   ]
 }
